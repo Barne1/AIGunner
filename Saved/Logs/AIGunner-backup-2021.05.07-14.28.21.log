@@ -1,0 +1,1718 @@
+﻿Log file open, 05/07/21 15:50:30
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AIGunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250257
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cleaning working directory: C:/Users/Hugo/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: DebugGame
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.07-13.50.32:959][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.07-13.50.32:960][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.07-13.50.32:961][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.07-13.50.32:961][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.07-13.50.32:961][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.07-13.50.32:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:961][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:977][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:977][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.07-13.50.32:977][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.07-13.50.32:977][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:977][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.07-13.50.32:977][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.07-13.50.32:978][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.07-13.50.32:979][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.07-13.50.32:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.07-13.50.32:981][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.07-13.50.32:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.07-13.50.32:983][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.07-13.50.32:983][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.07-13.50.32:983][  0]LogHAL: Display: Platform has ~ 16 GB [17096519680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.07-13.50.32:983][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.07-13.50.32:983][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.07-13.50.32:983][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.07-13.50.32:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.07-13.50.32:985][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.07-13.50.32:986][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.07-13.50.32:987][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.07-13.50.32:988][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:989][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.05.07-13.50.32:989][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.07-13.50.32:989][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.07-13.50.32:990][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.07-13.50.32:990][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.07-13.50.32:990][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.07-13.50.32:990][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.05.07-13.50.32:990][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Editor.ini]
+[2021.05.07-13.50.32:990][  0]LogInit: Computer: DESKTOP-0CE1HOJ
+[2021.05.07-13.50.32:990][  0]LogInit: User: Hugo
+[2021.05.07-13.50.32:990][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.07-13.50.32:990][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.07-13.50.32:990][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.07-13.50.32:990][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.07-13.50.32:990][  0]LogMemory: Process Physical Memory: 133.97 MB used, 133.97 MB peak
+[2021.05.07-13.50.32:990][  0]LogMemory: Process Virtual Memory: 110.54 MB used, 110.54 MB peak
+[2021.05.07-13.50.32:990][  0]LogMemory: Physical Memory: 11047.27 MB used,  5257.24 MB free, 16304.51 MB total
+[2021.05.07-13.50.32:990][  0]LogMemory: Virtual Memory: 134207736.00 MB used,  9993.12 MB free, 134217728.00 MB total
+[2021.05.07-13.50.33:000][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.07-13.50.33:154][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.07-13.50.33:154][  0]LogInit: Using OS detected language (en-US).
+[2021.05.07-13.50.33:155][  0]LogInit: Using OS detected locale (en-SE).
+[2021.05.07-13.50.33:159][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.07-13.50.33:304][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.07-13.50.33:338][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.07-13.50.33:358][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.07-13.50.33:358][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.07-13.50.33:466][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.07-13.50.33:466][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.07-13.50.33:466][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.07-13.50.33:573][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.05.07-13.50.33:573][  0]LogD3D11RHI:       8031/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.07-13.50.33:579][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.07-13.50.33:579][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.07-13.50.33:579][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.07-13.50.33:584][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.07-13.50.33:584][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.07-13.50.33:584][  0]LogWindows: EnumDisplayDevices:
+[2021.05.07-13.50.33:584][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.05.07-13.50.33:585][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.05.07-13.50.33:585][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.07-13.50.33:585][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.07-13.50.33:585][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.07-13.50.33:585][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.05.07-13.50.33:585][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.05.07-13.50.33:586][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.05.07-13.50.33:586][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.05.07-13.50.33:638][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.07-13.50.33:638][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.07-13.50.33:638][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.07-13.50.33:661][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.07-13.50.33:665][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.07-13.50.33:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.07-13.50.33:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.07-13.50.33:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.07-13.50.33:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.07-13.50.33:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.07-13.50.33:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.07-13.50.33:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.07-13.50.33:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.07-13.50.33:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.07-13.50.33:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.07-13.50.33:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.07-13.50.33:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.07-13.50.33:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.07-13.50.33:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.07-13.50.34:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.07-13.50.34:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.07-13.50.34:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.07-13.50.34:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.07-13.50.34:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.07-13.50.34:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.07-13.50.34:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.07-13.50.34:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.07-13.50.34:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.07-13.50.34:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.07-13.50.34:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.07-13.50.34:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.07-13.50.34:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.07-13.50.34:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.07-13.50.34:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.07-13.50.34:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.07-13.50.34:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.07-13.50.34:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.07-13.50.34:236][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.07-13.50.34:272][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.07-13.50.34:464][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.07-13.50.34:464][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Intermediate/Shaders/WorkingDirectory/17228/).
+[2021.05.07-13.50.34:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hugo/AppData/Local/Temp/UnrealShaderWorkingDir/C0F92F414795292484362B960D84EDD0/'.
+[2021.05.07-13.50.34:464][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.07-13.50.34:464][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.07-13.50.35:110][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.07-13.50.35:155][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.07-13.50.35:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.07-13.50.35:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.07-13.50.35:156][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.07-13.50.35:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.07-13.50.35:156][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.07-13.50.35:167][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.07-13.50.35:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.07-13.50.35:167][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.07-13.50.35:174][  0]LogDerivedDataCache: Speed tests for C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.07-13.50.35:174][  0]LogDerivedDataCache: Display: Performance to C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=265.25MBs, RandomWriteSpeed=227.50MBs. Assigned SpeedClass 'Local'
+[2021.05.07-13.50.35:175][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.07-13.50.35:175][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.07-13.50.35:175][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.07-13.50.35:216][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.07-13.50.35:216][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.07-13.50.35:242][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.05.07-13.50.35:424][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.07-13.50.35:424][  0]LogInit: Active device profile: [0000013B3DAFFA00][0000013B3C76C280 49] Windows
+[2021.05.07-13.50.35:424][  0]LogInit: Profiles: [0000013B3DAFFA00][0000013B3C76C280 49] Windows, [0000013B3DAA4E00][0000013B3C774400 49] WindowsNoEditor, [0000013B3DAFE300][0000013B3C778580 49] WindowsServer, [0000013B3DAA5100][0000013B3C77C700 49] WindowsClient, [0000013B3DAFEC00][0000013B3C780880 49] IOS, [0000013B3DAA7200][0000013B3C784A00 49] iPadAir, [0000013B3DAFD000][0000013B3C788B80 49] iPadAir2, [0000013B3DA56D00][0000013B3C790E40 49] IPadPro, [0000013B3DA56E00][0000013B3C78CE80 49] iPadAir3, [0000013B3DAFEA00][0000013B3C795000 49] iPadAir4, [0000013B3DA56B00][0000013B3C799180 49] iPadMini2, [0000013B3DAFC900][0000013B3C79D300 49] iPadMini3, [0000013B3DA55C00][0000013B3C7A1480 49] iPadMini4, [0000013B3DAFEF00][0000013B3C7715C0 49] iPadMini5, [0000013B3DAB6600][0000013B3C7A9800 49] iPhone6, [0000013B3DAB6700][0000013B3C7A5840 49] iPodTouch6, [0000013B3DAA4800][0000013B3D17BAC0 49] iPhone7, [0000013B3DAA4A00][0000013B3C7ADB00 49] iPodTouch7, [0000013B3DAB7E00][0000013B3D17FC80 49] iPhone5S, [0000013B3DAA6200][0000013B3D182140 49] iPhone6Plus, [0000013B3DAB5400][0000013B3D1862C0 49] iPhone6S, [0000013B3DAA7D00][0000013B3D18A440 49] iPhone6SPlus, [0000013B3DAB4200][0000013B3D18E5C0 49] iPhone7Plus, [0000013B3DAA6400][0000013B3D192740 49] iPhoneSE, [0000013B3DAB6D00][0000013B3D1968C0 49] iPhone8, [0000013B3DAA6300][0000013B3D19AA40 49] iPhone8Plus, [0000013B3DAB5C00][0000013B3D19EBC0 49] iPhoneX, [0000013B3DAA5000][0000013B3D1A2D40 49] iPhoneXS, [0000013B3DAB4300][0000013B3D1A6EC0 49] iPhoneXSMax, [0000013B3DAA6E00][0000013B3D1BD040 49] iPhoneXR, [0000013B3DAB7B00][0000013B3D1C11C0 49] iPhone11, [0000013B3DAA7300][0000013B3D1D7340 49] iPhone11Pro, [0000013B3DAB7200][0000013B3D1EB4C0 49] iPhone11ProMax, [0000013B3DAA7E00][0000013B3D1EF640 49] iPhoneSE2, [0000013B3DAB6900][0000013B3D177780 49] iPhone12Mini, [0000013B3DAA5200][0000013B3D20F8C0 49] iPhone12, [0000013B3DAB6200][0000013B3D21FA00 49] iPhone12Pro, [0000013B3DAA7A00][0000013B3D227B80 49] iPhone12ProMax, [0000013B3DAA4500][0000013B3D23FD00 49] iPadPro105, [0000013B3DAA4700][0000013B3D2421C0 49] iPadPro129, [0000013B3DAB7600][0000013B3D24E340 49] iPadPro97, [0000013B3DAFD400][0000013B3D25A4C0 49] iPadPro2_129, [0000013B3DAB4700][0000013B3D27E640 49] iPad5, [0000013B3DAFE700][0000013B3D2827C0 49] iPad6, [0000013B3DAB7300][0000013B3D286940 49] iPad7, [0000013B3DAFDA00][0000013B3D28AAC0 49] iPad8, [0000013B3DAB7000][0000013B3D292C40 49] iPadPro11, [0000013B3DAFF400][0000013B3D296DC0 49] iPadPro2_11, [0000013B3DAB5100][0000013B3D29AF40 49] iPadPro3_129, [0000013B3DAFF100][0000013B3D29F0C0 49] iPadPro4_129, [0000013B3DAB4800][0000013B3D2A3240 49] AppleTV, [0000013B3DAFE200][0000013B3D2A73C0 49] AppleTV4K, [0000013B3DAB6800][0000013B3D2B5540 49] TVOS, [0000013B3DAFD500][0000013B3D2C56C0 49] Mac, [0000013B3DAB4F00][0000013B3D223800 49] MacClient, [0000013B3DAFC200][0000013B3D2C9940 49] MacNoEditor, [0000013B3DAB4D00][0000013B3D2CDA80 49] MacServer, [0000013B3DAFCA00][0000013B3D2D5C00 49] Linux, [0000013B3DAB5800][0000013B3D2D80C0 49] LinuxAArch64, [0000013B3DAFE100][0000013B3D2DC240 49] LinuxNoEditor, [0000013B3DAB4A00][0000013B3D2E03C0 49] LinuxAArch64NoEditor, [0000013B3DAFCD00][0000013B3D2E4540 49] LinuxClient, [0000013B3DAB5D00][0000013B3D2E86C0 49] LinuxAArch64Client, [0000013B3DAFC700][0000013B3D2EC840 49] LinuxServer, [0000013B3DAB6100][0000013B3D2F09C0 49] LinuxAArch64Server, [0000013B3DAFD100][0000013B3D314B40 49] Android, [0000013B3DAB5E00][0000013B3D318CC0 49] Android_Low, [0000013B3DAFE800][0000013B3D31CE40 49] Android_Mid, [0000013B3DAB6C00][0000013B3D320FC0 49] Android_High, [0000013B3DAFED00][0000013B3D325140 49] Android_Default, [0000013B3DAB5500][0000013B3D3292C0 49] Android_Adreno4xx, [0000013B3DAFE000][0000013B3D359440 49] Android_Adreno5xx_Low, [0000013B3DAB4900][0000013B3D35D5C0 49] Android_Adreno5xx, [0000013B3DAFC500][0000013B3D361740 49] Android_Adreno6xx, [0000013B3DAB6A00][0000013B3D2D1880 49] Android_Adreno6xx_Vulkan, [0000013B3DAFFB00][0000013B3D3659C0 49] Android_Mali_T6xx, [0000013B3DAB6000][0000013B3D369B00 49] Android_Mali_T7xx, [0000013B3DAFF000][0000013B3D36DC40 49] Android_Mali_T8xx, [0000013B3DAB7A00][0000013B3D374100 49] Android_Mali_G71, [0000013B3DAFE900][0000013B3D378280 49] Android_Mali_G72, [0000013B3DAB5900][0000013B3D37C400 49] Android_Mali_G72_Vulkan, [0000013B3DAFDC00][0000013B3D380580 49] Android_Mali_G76, [0000013B3DAB5A00][0000013B3D384700 49] Android_Mali_G76_Vulkan, [0000013B3DAFD300][0000013B3D3C4880 49] Android_Mali_G77, [0000013B3DAB6300][0000013B3D3C8A00 49] Android_Mali_G77_Vulkan, [0000013B3DAFD600][0000013B3D3CCB80 49] Android_Vulkan_SM5, [0000013B3DAB6400][0000013B3D3D0D00 49] Android_PowerVR_G6xxx, [0000013B3DAA5E00][0000013B3D3D4E80 49] Android_PowerVR_GT7xxx, [0000013B3DA54A00][0000013B3D3D9000 49] Android_PowerVR_GE8xxx, [0000013B3DAA7600][0000013B3D3DD180 49] Android_PowerVR_GM9xxx, [0000013B3DA55A00][0000013B3CBD1300 49] Android_PowerVR_GM9xxx_Vulkan, [0000013B3DAA7800][0000013B3CBD5480 49] Android_TegraK1, [0000013B3DA55B00][0000013B3CBD9600 49] Android_Unknown_Vulkan, [0000013B3DAA7B00][0000013B3CBDD780 49] Lumin, [0000013B3DA57100][0000013B3D3718C0 49] Lumin_Desktop, [0000013B3DAA4B00][0000013B3CBE1A00 49] HoloLens, 
+[2021.05.07-13.50.35:526][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.07-13.50.35:527][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.07-13.50.35:527][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.07-13.50.35:527][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.07-13.50.35:527][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.07-13.50.35:601][  0]LogNetVersion: AIGunner 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3233536220)
+[2021.05.07-13.50.35:947][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.07-13.50.35:978][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.030830 seconds
+[2021.05.07-13.50.35:982][  0]LogUObjectArray: 16728 objects as part of root set at end of initial load.
+[2021.05.07-13.50.35:982][  0]LogUObjectAllocator: 4183488 out of 0 bytes used by permanent object pool.
+[2021.05.07-13.50.35:983][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.07-13.50.36:962][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.07-13.50.36:972][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.07-13.50.37:104][  0]SourceControl: Source control is disabled
+[2021.05.07-13.50.37:104][  0]SourceControl: Source control is disabled
+[2021.05.07-13.50.37:188][  0]LogUProjectInfo: Found projects:
+[2021.05.07-13.50.37:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.07-13.50.37:867][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.07-13.50.37:867][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.07-13.50.38:021][  0]LogCollectionManager: Loaded 0 collections in 0.002280 seconds
+[2021.05.07-13.50.38:064][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Collections/' took 0.00s
+[2021.05.07-13.50.38:065][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/Developers/Hugo/Collections/' took 0.00s
+[2021.05.07-13.50.38:065][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/Collections/' took 0.00s
+[2021.05.07-13.50.38:065][  0]LogOcInput: OculusInput pre-init called
+[2021.05.07-13.50.38:308][  0]LogEngine: Initializing Engine...
+[2021.05.07-13.50.38:309][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.07-13.50.38:309][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.07-13.50.38:392][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.07-13.50.38:406][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.07-13.50.38:419][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.07-13.50.38:428][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.07-13.50.38:429][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.07-13.50.38:429][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-13.50.38:429][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-13.50.38:429][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-13.50.38:430][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-13.50.38:430][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-13.50.38:430][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-13.50.38:430][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-13.50.38:430][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-13.50.38:430][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-13.50.38:430][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 5: BackRight
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.05.07-13.50.38:462][  0]LogAudioMixer: Display: 7: SideRight
+[2021.05.07-13.50.38:508][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2021.05.07-13.50.38:513][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.07-13.50.38:514][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.07-13.50.38:515][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.07-13.50.38:516][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.07-13.50.38:516][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.07-13.50.38:516][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.07-13.50.38:517][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.07-13.50.38:517][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.07-13.50.38:517][  0]LogInit: FAudioDevice initialized.
+[2021.05.07-13.50.38:517][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.07-13.50.38:518][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.07-13.50.38:557][  0]LogDerivedDataCache: Saved boot cache 0.04s 81MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.07-13.50.38:557][  0]LogInit: Texture streaming: Enabled
+[2021.05.07-13.50.38:583][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.07-13.50.38:593][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.07-13.50.38:593][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={5FF0F7E9-4D53-AA8E-D5F8-5DA9DACF332E}
+[2021.05.07-13.50.38:593][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.07-13.50.38:595][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.07-13.50.38:624][  0]LogInit: Transaction tracking system initialized
+[2021.05.07-13.50.38:678][  0]BlueprintLog: New page: Editor Load
+[2021.05.07-13.50.38:854][  0]LocalizationService: Localization service is disabled
+[2021.05.07-13.50.38:915][  0]TimingProfiler: Initialize
+[2021.05.07-13.50.38:915][  0]TimingProfiler: OnSessionChanged
+[2021.05.07-13.50.38:916][  0]LoadingProfiler: Initialize
+[2021.05.07-13.50.38:916][  0]LoadingProfiler: OnSessionChanged
+[2021.05.07-13.50.38:916][  0]NetworkingProfiler: Initialize
+[2021.05.07-13.50.38:916][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.07-13.50.38:916][  0]MemoryProfiler: Initialize
+[2021.05.07-13.50.38:916][  0]MemoryProfiler: OnSessionChanged
+[2021.05.07-13.50.39:037][  0]DDCNotifications: Shared DDC not detected, performance notification enabled
+[2021.05.07-13.50.39:097][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.07-13.50.39:097][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.07-13.50.39:475][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/' took 0.03s
+[2021.05.07-13.50.39:475][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.07-13.50.39:510][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.932
+[2021.05.07-13.50.39:511][  0]Cmd: MAP LOAD FILE="../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.07-13.50.39:511][  0]LightingResults: New page: Lighting Build
+[2021.05.07-13.50.39:512][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-13.50.39:512][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-13.50.39:512][  0]MapCheck: New page: Map Check
+[2021.05.07-13.50.39:512][  0]LightingResults: New page: Lighting Build
+[2021.05.07-13.50.39:518][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.07-13.50.40:524][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.05.07-13.50.40:525][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.05.07-13.50.40:660][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.07-13.50.40:695][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.05.07-13.50.40:698][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.07-13.50.40:699][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,37ms to complete.
+[2021.05.07-13.50.40:699][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.189
+[2021.05.07-13.50.40:703][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.125
+[2021.05.07-13.50.40:843][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.50.40:849][  0]LogSourceControl: Attempting 'p4 client -o Hugo.Lindroth_GP03'
+[2021.05.07-13.50.40:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.50.40:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.50.40:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.50.40:871][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3614 classes and 861 folders.
+[2021.05.07-13.50.40:875][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.07-13.50.40:876][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.07-13.50.40:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-13.50.40:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.07-13.50.40:877][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.07-13.50.40:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.07-13.50.40:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.07-13.50.40:878][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.07-13.50.40:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.07-13.50.40:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.07-13.50.40:878][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-13.50.40:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-13.50.40:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.07-13.50.40:879][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.07-13.50.40:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.07-13.50.40:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.07-13.50.40:880][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.07-13.50.40:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.07-13.50.40:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.07-13.50.40:881][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.07-13.50.40:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.07-13.50.40:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.07-13.50.40:882][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.07-13.50.40:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.07-13.50.40:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.07-13.50.40:882][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.07-13.50.40:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.07-13.50.40:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.07-13.50.40:883][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.07-13.50.40:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.07-13.50.40:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.07-13.50.40:884][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.07-13.50.40:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.07-13.50.40:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.07-13.50.40:885][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.07-13.50.40:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.07-13.50.40:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.07-13.50.40:886][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-13.50.40:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-13.50.40:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.07-13.50.40:886][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.07-13.50.40:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.07-13.50.40:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.07-13.50.40:887][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.07-13.50.40:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.07-13.50.40:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.07-13.50.40:888][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.07-13.50.40:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-13.50.40:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.07-13.50.40:889][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.07-13.50.40:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.07-13.50.40:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.05.07-13.50.40:889][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.07-13.50.40:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.07-13.50.40:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.07-13.50.40:890][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-13.50.40:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-13.50.40:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.07-13.50.40:891][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-13.50.40:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-13.50.40:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.07-13.50.40:892][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.07-13.50.40:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.07-13.50.40:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.05.07-13.50.40:893][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.07-13.50.40:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.07-13.50.40:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.05.07-13.50.40:894][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.07-13.50.40:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.07-13.50.40:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.07-13.50.40:894][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.07-13.50.40:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.07-13.50.40:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.05.07-13.50.40:895][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.07-13.50.40:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.07-13.50.40:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.05.07-13.50.40:896][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.07-13.50.40:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.07-13.50.40:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.07-13.50.40:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.05.07-13.50.40:931][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.07-13.50.40:934][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.05.07-13.50.41:066][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.07-13.50.41:068][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.07-13.50.41:072][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.07-13.50.41:176][  0]LogRenderer: Reallocating scene render targets to support 1108x584 Format 10 NumSamples 1 (Frame:1).
+[2021.05.07-13.50.41:894][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.07-13.50.43:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.07-13.50.43:704][  0]LogLoad: (Engine Initialization) Total time: 14.13 seconds
+[2021.05.07-13.50.43:704][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.07-13.50.43:704][  0]LogInit: First time updating LLM stats...
+[2021.05.07-13.50.43:755][  0]LogAssetRegistry: Asset discovery search completed in 8.5133 seconds
+[2021.05.07-13.50.43:757][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.07-13.50.43:793][  0]SourceControl: Client Hugo.Lindroth_GP03
+[2021.05.07-13.50.43:793][  0]SourceControl: Update 2021/04/26 15:19:50
+[2021.05.07-13.50.43:793][  0]SourceControl: Access 2021/05/07 15:47:31
+[2021.05.07-13.50.43:793][  0]SourceControl: Owner Hugo.Lindroth
+[2021.05.07-13.50.43:793][  0]SourceControl: Host DESKTOP-0CE1HOJ
+[2021.05.07-13.50.43:793][  0]SourceControl: Description Created by Hugo.Lindroth.
+
+[2021.05.07-13.50.43:793][  0]SourceControl: Root C:\PerforceProjects\Hugo.Lindroth_GP03
+[2021.05.07-13.50.43:793][  0]SourceControl: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2021.05.07-13.50.43:794][  0]SourceControl: SubmitOptions submitunchanged
+[2021.05.07-13.50.43:794][  0]SourceControl: LineEnd local
+[2021.05.07-13.50.43:794][  0]SourceControl: View0 //FG20FT_AI_Team13/... //Hugo.Lindroth_GP03/FG20FT_AI_Team13/...
+[2021.05.07-13.50.43:794][  0]SourceControl: specFormatted 
+[2021.05.07-13.50.43:794][  0]SourceControl: func client-FstatInfo
+[2021.05.07-13.50.43:794][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.07-13.50.43:823][  1]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Config/DefaultEngine.ini C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactory.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAmbientSound.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAnimationAsset.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAtmosphericFog.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBasicShape.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBlueprint.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxReflectionCapture.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxVolume.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCameraActor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCharacter.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryClass.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCylinderVolume.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDeferredDecal.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDirectionalLight.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmitter.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmptyActor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryExponentialHeightFog.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryInteractiveFoliage.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/LandscapeEditor/Private/Classes/ActorFactoryLandscape.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryMatineeActor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Private/Factories/ActorFactoryMovieScene.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryNote.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPawn.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPhysicsAsset.h'
+[2021.05.07-13.50.44:065][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:065][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:065][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:065][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactory.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAmbientSound.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAnimationAsset.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAtmosphericFog.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBasicShape.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBlueprint.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:066][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxReflectionCapture.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxVolume.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCameraActor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCharacter.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryClass.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCylinderVolume.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDeferredDecal.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDirectionalLight.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmitter.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:067][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmptyActor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryExponentialHeightFog.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryInteractiveFoliage.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/LandscapeEditor/Private/Classes/ActorFactoryLandscape.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryMatineeActor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Private/Factories/ActorFactoryMovieScene.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryNote.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPawn.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.44:068][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPhysicsAsset.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.05.07-13.50.47:746][ 13]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Alert.uasset C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/StateSheet.uasset C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/VisionSettings.uasset'
+[2021.05.07-13.52.16:106][276]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.07-13.52.16:111][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.07-13.52.16:111][276]PIE: New page: PIE session: FirstPersonExampleMap (7 May 2021, 17:52:16)
+[2021.05.07-13.52.16:112][276]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.07-13.52.16:113][276]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.07-13.52.16:114][276]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.05.07-13.52.16:192][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078060s)
+[2021.05.07-13.52.16:193][276]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.05.07-13.52.16:194][276]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2021.05.07-13.52.16:194][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.080655s)
+[2021.05.07-13.52.16:204][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.05.07-13.52.16:208][276]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.07-13.52.16:208][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-13.52.16:209][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-13.52.16:209][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-13.52.16:209][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-13.52.16:209][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-13.52.16:209][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-13.52.16:209][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-13.52.16:209][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-13.52.16:210][276]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-13.52.16:210][276]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-13.52.16:215][276]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 4: BackLeft
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 5: BackRight
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 6: SideLeft
+[2021.05.07-13.52.16:216][276]LogAudioMixer: Display: 7: SideRight
+[2021.05.07-13.52.16:230][276]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2021.05.07-13.52.16:230][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.07-13.52.16:230][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.07-13.52.16:230][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.07-13.52.16:230][276]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.07-13.52.16:231][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.07-13.52.16:231][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.07-13.52.16:243][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.07-13.52.16:243][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.07-13.52.16:243][276]LogInit: FAudioDevice initialized.
+[2021.05.07-13.52.16:243][276]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.05.07-13.52.16:249][276]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.07-13.52.16:299][276]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.05.07-15.52.16
+[2021.05.07-13.52.16:302][276]LogWorld: Bringing up level for play took: 0.050766
+[2021.05.07-13.52.16:302][276]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.05.07-13.52.16:305][276]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.05.07-13.52.16:316][276]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.07-13.52.16:316][276]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 556] 
+
+
+[2021.05.07-13.52.16:316][276]LogStats:             FDebug::EnsureFailed -  0.000 s
+[2021.05.07-13.52.19:486][276]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.07-13.52.19:487][276]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.07-13.52.19:488][276]PIE: Warning: The widget 'MainWidget_C' was already added to the screen.
+[2021.05.07-13.52.19:488][276]PIE: Server logged in
+[2021.05.07-13.52.19:490][276]PIE: Play in editor total start time 3,38 seconds.
+[2021.05.07-13.52.19:505][276]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.07-13.52.19:528][276]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-13.52.19:528][276]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-13.52.19:529][276]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.07-13.52.19:529][276]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.07-13.52.19:529][276]LogAudioMixer: Display: 4: BackLeft
+[2021.05.07-13.52.19:529][276]LogAudioMixer: Display: 5: BackRight
+[2021.05.07-13.52.19:529][276]LogAudioMixer: Display: 6: SideLeft
+[2021.05.07-13.52.19:529][276]LogAudioMixer: Display: 7: SideRight
+[2021.05.07-13.52.25:263][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.52.25:263][441]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.05.07-13.52.25:266][441]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-13.52.25:273][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-13.52.25:280][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.07-13.52.25:283][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-13.52.25:289][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.07-13.52.25:292][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-13.52.25:293][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-13.52.25:308][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.52.25:321][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.05.07-13.52.25:414][441]LogSlate: Took 0.000644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.07-13.52.25:420][442]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.05.07-13.52.26:323][454]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.07-13.52.26:334][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HugoAi/BP_Enemy.BP_Enemy
+[2021.05.07-13.52.26:877][454]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.05.07-13.52.27:700][454]LogSlate: Took 0.005024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.07-13.52.27:860][455]LogSlate: Took 0.005062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.07-13.52.28:083][479]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-13.52.28:087][479]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-13.52.31:651][748]LogSlate: Window 'Delete Component' being destroyed
+[2021.05.07-13.52.31:658][748]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.05.07-13.52.31:658][748]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Fired Shot (EnemyGun)  was bound to has been deleted! This node is no longer valid
+[2021.05.07-13.52.31:658][748]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2021.05.07-13.52.31:658][748]BlueprintLog: Error: The component that  On Fired Shot (EnemyGun)  was bound to has been deleted! This node is no longer valid
+[2021.05.07-13.52.31:847][749]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.05.07-13.52.31:895][749]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.05.07-13.52.33:566][749]LogSlate: Window 'Check Out Assets' being destroyed
+[2021.05.07-13.52.33:677][750]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.05.07-13.52.33:677][750]LogSourceControl: Attempting 'p4 edit C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.05.07-13.53.20:310][ 38]BlueprintLog: New page: Compile BP_Enemy
+[2021.05.07-13.53.20:318][ 38]LogBlueprint: Error: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\HugoAi\BP_Enemy.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2021.05.07-13.53.20:318][ 38]LogBlueprint: Error: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\HugoAi\BP_Enemy.uasset: [Compiler] This blueprint (self) is not a EnemyGunComponent, therefore ' Target ' must have a connection.
+[2021.05.07-13.53.20:319][ 38]LogBlueprint: Error: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\HugoAi\BP_Enemy.uasset: [Compiler] This blueprint (self) is not a EnemyGunComponent, therefore ' Target ' must have a connection.
+[2021.05.07-13.53.20:320][ 38]LogBlueprint: Error: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\HugoAi\BP_Enemy.uasset: [Compiler] Variable node  Get bIsFiring  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.05.07-13.53.20:409][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.07-13.54.27:215][742]BlueprintLog: New page: Compile BP_Enemy
+[2021.05.07-13.54.27:315][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.05.07-13.54.31:171][150]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.05.07-13.54.31:218][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HugoAi/BP_Enemy" FILE="../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset" SILENT=true
+[2021.05.07-13.54.31:269][150]LogSavePackage: Moving '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/BP_Enemy24E5707A4AABBD6427F7ABAECB7DB4FB.tmp' to '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.05.07-13.54.31:285][150]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.05.07-13.54.31:285][150]LogContentValidation: Display: Validating Blueprint /Game/HugoAi/BP_Enemy.BP_Enemy
+[2021.05.07-13.54.33:624][377]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.07-13.54.33:629][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.07-13.54.33:629][377]PIE: New page: PIE session: FirstPersonExampleMap (7 May 2021, 17:54:33)
+[2021.05.07-13.54.33:629][377]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.05.07-13.54.33:701][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072018s)
+[2021.05.07-13.54.33:702][377]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.05.07-13.54.33:703][377]LogPlayLevel: PIE: World Init took: (0.001802s)
+[2021.05.07-13.54.33:703][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.074385s)
+[2021.05.07-13.54.33:725][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.05.07-13.54.33:726][377]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.07-13.54.33:726][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-13.54.33:726][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-13.54.33:726][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-13.54.33:727][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-13.54.33:727][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-13.54.33:727][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-13.54.33:727][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-13.54.33:727][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-13.54.33:728][377]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-13.54.33:728][377]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-13.54.33:733][377]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 4: BackLeft
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 5: BackRight
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 6: SideLeft
+[2021.05.07-13.54.33:734][377]LogAudioMixer: Display: 7: SideRight
+[2021.05.07-13.54.33:748][377]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2021.05.07-13.54.33:748][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.07-13.54.33:748][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.07-13.54.33:748][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.07-13.54.33:748][377]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.07-13.54.33:749][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.07-13.54.33:749][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.07-13.54.33:760][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.07-13.54.33:761][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.07-13.54.33:761][377]LogInit: FAudioDevice initialized.
+[2021.05.07-13.54.33:761][377]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2021.05.07-13.54.33:770][377]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.07-13.54.33:819][377]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.05.07-15.54.33
+[2021.05.07-13.54.33:821][377]LogWorld: Bringing up level for play took: 0.050460
+[2021.05.07-13.54.33:822][377]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.05.07-13.54.33:837][377]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.07-13.54.33:837][377]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.07-13.54.33:838][377]PIE: Warning: The widget 'MainWidget_C' was already added to the screen.
+[2021.05.07-13.54.33:839][377]PIE: Server logged in
+[2021.05.07-13.54.33:840][377]PIE: Play in editor total start time 0,211 seconds.
+[2021.05.07-13.54.34:935][490]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.05.07-13.54.34:935][490]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.05.07-13.54.38:808][903]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-13.54.38:817][904]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-13.54.38:827][905]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-13.54.41:315][203]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.41:315][203]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.41:323][204]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.41:332][205]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.41:341][206]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.41:760][248]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:760][248]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:769][249]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:784][250]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:792][251]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:800][252]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:808][253]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:818][254]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:946][269]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:946][269]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:955][270]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:963][271]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:971][272]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:980][273]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:989][274]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.41:997][275]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:007][276]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:016][277]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:025][278]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:034][279]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:042][280]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:051][281]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:060][282]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:069][283]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:078][284]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:088][285]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:096][286]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:105][287]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:114][288]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:123][289]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:131][290]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:139][291]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:148][292]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:156][293]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:165][294]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:174][295]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:182][296]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:191][297]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:199][298]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:208][299]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:217][300]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:225][301]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:235][302]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:244][303]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:252][304]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.42:329][313]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:329][313]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:337][314]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:346][315]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:355][316]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:363][317]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:372][318]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:379][319]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:389][320]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:397][321]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:406][322]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:414][323]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.42:938][386]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:939][386]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:947][387]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:955][388]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:963][389]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:972][390]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:980][391]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.42:989][392]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.43:148][411]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-13.54.43:207][418]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.43:215][419]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.43:224][420]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.43:232][421]LogTemp: Hit SM_cautionpole17
+[2021.05.07-13.54.43:308][430]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:308][430]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:316][431]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:325][432]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:334][433]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:341][434]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:391][440]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:398][441]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:407][442]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.43:415][443]LogTemp: Hit SM_cautionpole18
+[2021.05.07-13.54.44:233][541]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-13.54.45:236][661]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-13.54.45:662][712]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.45:662][712]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.45:670][713]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.45:679][714]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.45:687][715]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.45:953][747]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.45:953][747]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.45:961][748]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.45:970][749]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.45:978][750]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.45:986][751]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.45:995][752]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:279][786]LogTemp: Hit SM_metal_fence_458
+[2021.05.07-13.54.46:279][786]LogTemp: Hit SM_metal_fence_458
+[2021.05.07-13.54.46:286][787]LogTemp: Hit SM_metal_fence_458
+[2021.05.07-13.54.46:295][788]LogTemp: Hit SM_metal_fence_458
+[2021.05.07-13.54.46:553][819]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:554][819]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:566][820]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:575][821]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:583][822]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:592][823]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:599][824]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:608][825]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.46:616][826]LogTemp: Hit SM_cautionpole16
+[2021.05.07-13.54.47:057][879]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:057][879]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:065][880]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:074][881]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:083][882]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:090][883]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:099][884]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:107][885]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:115][886]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:124][887]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:133][888]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:141][889]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:149][890]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:157][891]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:166][892]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:174][893]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:183][894]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:191][895]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:199][896]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:208][897]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:216][898]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:224][899]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:233][900]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:241][901]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:249][902]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:257][903]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:266][904]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:274][905]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:283][906]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:291][907]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:299][908]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:308][909]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:316][910]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:325][911]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:333][912]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:341][913]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:350][914]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:358][915]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:366][916]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:375][917]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:383][918]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:391][919]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:391][919]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-13.54.47:400][920]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:415][921]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:424][922]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:432][923]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:440][924]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:448][925]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:457][926]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:466][927]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:474][928]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:482][929]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:491][930]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:499][931]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:507][932]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:515][933]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:524][934]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:532][935]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:541][936]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:550][937]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:557][938]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:565][939]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:574][940]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:582][941]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:590][942]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:600][943]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:607][944]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:616][945]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:624][946]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:633][947]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:641][948]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:650][949]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:658][950]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:666][951]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:674][952]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:683][953]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:691][954]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:699][955]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:707][956]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:715][957]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:724][958]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:732][959]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:741][960]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:749][961]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:758][962]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:765][963]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:774][964]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:782][965]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:790][966]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:798][967]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:807][968]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:815][969]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:824][970]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:832][971]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:840][972]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:848][973]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:858][974]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:866][975]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:874][976]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:882][977]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:891][978]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:899][979]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:908][980]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:916][981]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:924][982]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:933][983]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:941][984]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:949][985]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:958][986]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:966][987]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:974][988]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:983][989]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:991][990]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.47:999][991]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:008][992]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:015][993]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:024][994]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:032][995]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:041][996]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:049][997]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:060][998]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:068][999]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:076][  0]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:084][  1]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:093][  2]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:101][  3]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:109][  4]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:118][  5]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:126][  6]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:134][  7]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:143][  8]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:151][  9]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:159][ 10]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:168][ 11]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:176][ 12]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:184][ 13]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:193][ 14]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:201][ 15]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:209][ 16]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:217][ 17]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:226][ 18]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:235][ 19]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:243][ 20]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:251][ 21]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:259][ 22]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:268][ 23]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:276][ 24]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:284][ 25]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:293][ 26]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:301][ 27]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:309][ 28]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:318][ 29]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:326][ 30]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:335][ 31]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:343][ 32]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:351][ 33]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:360][ 34]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:493][ 35]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:500][ 36]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:509][ 37]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:517][ 38]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:525][ 39]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:533][ 40]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:541][ 41]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:550][ 42]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:558][ 43]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:567][ 44]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:575][ 45]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:583][ 46]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:592][ 47]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:600][ 48]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:608][ 49]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:617][ 50]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.48:625][ 51]LogTemp: Hit SM_cautionpole15
+[2021.05.07-13.54.56:386][935]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy4)
+[2021.05.07-13.55.12:862][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.55.12:863][588]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.05.07-13.55.12:865][588]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-13.55.12:873][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-13.55.12:885][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.07-13.55.12:899][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-13.55.12:917][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.07-13.55.12:919][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-13.55.12:920][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-13.55.12:935][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-13.55.12:948][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.07-13.55.13:058][589]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.07-13.55.15:142][799]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-13.55.15:148][799]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.00.35:040][127]Candidate modules for hot reload:
+[2021.05.07-14.00.35:041][127]  AIGunner
+[2021.05.07-14.00.35:041][127]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,7838 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.00.35:223][127]Warning: Starting HotReload took  0.2s.
+[2021.05.07-14.00.54:587][365]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:00:54
+[2021.05.07-14.00.54:587][365]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.00.54:587][365]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.00.54:587][365]CompilerResultsLog: Reflection code generated for AIGunnerEditor in 11,8874024 seconds
+[2021.05.07-14.00.54:587][365]CompilerResultsLog: Building AIGunnerEditor...
+[2021.05.07-14.00.54:587][365]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.07-14.00.54:587][365]CompilerResultsLog: Building 12 actions with 12 processes...
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [1/12] HAI_Dead.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [2/12] FGStateMachineComponent.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [3/12] HAI_Dead.gen.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [4/12] FGVisionSensingComponent.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [5/12] HAI_Alert.gen.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [6/12] FGStateMachineComponent.gen.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [7/12] FGVisionSensingComponent.gen.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [8/12] FGEnemy.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [9/12] HAI_Alert.cpp
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:   [10/12] UE4Editor-AIGunner-7838-Win64-DebugGame.lib
+[2021.05.07-14.00.54:588][365]CompilerResultsLog:      Creating library C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-7838-Win64-DebugGame.lib and object C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-7838-Win64-DebugGame.exp
+[2021.05.07-14.00.54:589][365]CompilerResultsLog:   [11/12] UE4Editor-AIGunner-7838-Win64-DebugGame.dll
+[2021.05.07-14.00.54:589][365]CompilerResultsLog:      Creating library C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-7838-Win64-DebugGame.suppressed.lib and object C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-7838-Win64-DebugGame.suppressed.exp
+[2021.05.07-14.00.54:589][365]CompilerResultsLog:   [12/12] AIGunnerEditor-Win64-DebugGame.target
+[2021.05.07-14.00.54:589][365]CompilerResultsLog: Total time in Parallel executor: 6,68 seconds
+[2021.05.07-14.00.54:589][365]CompilerResultsLog: Total execution time: 19,26 seconds
+[2021.05.07-14.00.54:589][365]LogMainFrame: MainFrame: Module compiling took 19.569 seconds
+[2021.05.07-14.00.54:653][365]LogClass: FGVisionSensingResults HotReload.
+[2021.05.07-14.00.54:653][365]LogClass: NoiseInfo HotReload.
+[2021.05.07-14.00.54:659][365]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AIGunner' in 0.0003 seconds. Added 21 classes and 9 folders.
+[2021.05.07-14.00.54:663][365]Display: HotReload successful (17 functions remapped  2 scriptstructs remapped)
+[2021.05.07-14.00.54:743][365]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0074 seconds. Added 3614 classes and 861 folders.
+[2021.05.07-14.00.54:745][365]Display: HotReload took 19.7s.
+[2021.05.07-14.00.56:771][571]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.07-14.00.56:786][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.07-14.00.56:787][571]PIE: New page: PIE session: FirstPersonExampleMap (7 May 2021, 18:00:56)
+[2021.05.07-14.00.56:787][571]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.05.07-14.00.56:863][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076240s)
+[2021.05.07-14.00.56:864][571]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.05.07-14.00.56:865][571]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2021.05.07-14.00.56:866][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.078888s)
+[2021.05.07-14.00.56:907][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.07-14.00.56:910][571]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.07-14.00.56:910][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.07-14.00.56:911][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.07-14.00.56:911][571]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.07-14.00.56:911][571]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.07-14.00.56:917][571]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-14.00.56:917][571]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-14.00.56:917][571]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.07-14.00.56:917][571]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.07-14.00.56:917][571]LogAudioMixer: Display: 4: BackLeft
+[2021.05.07-14.00.56:917][571]LogAudioMixer: Display: 5: BackRight
+[2021.05.07-14.00.56:918][571]LogAudioMixer: Display: 6: SideLeft
+[2021.05.07-14.00.56:918][571]LogAudioMixer: Display: 7: SideRight
+[2021.05.07-14.00.56:931][571]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2021.05.07-14.00.56:931][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.07-14.00.56:931][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.07-14.00.56:932][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.07-14.00.56:932][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.07-14.00.56:932][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.07-14.00.56:932][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.07-14.00.56:944][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.07-14.00.56:944][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.07-14.00.56:944][571]LogInit: FAudioDevice initialized.
+[2021.05.07-14.00.56:944][571]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2021.05.07-14.00.56:958][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.07-14.00.57:001][571]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.05.07-16.00.57
+[2021.05.07-14.00.57:004][571]LogWorld: Bringing up level for play took: 0.046065
+[2021.05.07-14.00.57:004][571]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.05.07-14.00.57:016][571]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.07-14.00.57:016][571]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 556] 
+
+
+[2021.05.07-14.00.57:016][571]LogStats:             FDebug::EnsureFailed -  0.000 s
+[2021.05.07-14.01.00:831][571]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.07-14.01.00:831][571]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.07-14.01.00:831][571]PIE: Warning: The widget 'MainWidget_C' was already added to the screen.
+[2021.05.07-14.01.00:832][571]PIE: Server logged in
+[2021.05.07-14.01.00:833][571]PIE: Play in editor total start time 4,058 seconds.
+[2021.05.07-14.01.00:844][571]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.07-14.01.00:867][571]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 1: FrontRight
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 4: BackLeft
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 5: BackRight
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 6: SideLeft
+[2021.05.07-14.01.00:868][571]LogAudioMixer: Display: 7: SideRight
+[2021.05.07-14.01.03:035][679]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.05.07-14.01.03:036][679]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.05.07-14.01.06:587][104]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-14.01.06:596][105]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-14.01.06:603][106]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-14.01.06:612][107]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-14.01.06:620][108]LogTemp: Hit SM_metal_fence_168
+[2021.05.07-14.01.08:187][295]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.08:195][296]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.08:204][297]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.08:212][298]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.08:222][299]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.08:429][323]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.08:429][323]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.08:438][324]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.08:446][325]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.08:455][326]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.08:463][327]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:293][537]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:294][537]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:302][538]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:310][539]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:318][540]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:327][541]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:335][542]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:343][543]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:352][544]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:360][545]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:367][546]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:376][547]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:652][580]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-14.01.10:843][603]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:843][603]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:851][604]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:860][605]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:868][606]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:876][607]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:885][608]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:893][609]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:902][610]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:909][611]LogTemp: Hit SM_cautionpole16
+[2021.05.07-14.01.10:926][613]LogTemp: Hit SM_metal_fence_189
+[2021.05.07-14.01.10:934][614]LogTemp: Hit SM_metal_fence_189
+[2021.05.07-14.01.10:943][615]LogTemp: Hit SM_metal_fence_189
+[2021.05.07-14.01.10:952][616]LogTemp: Hit SM_metal_fence_189
+[2021.05.07-14.01.11:628][697]LogTemp: Hit SM_TrafficBarrel5_570
+[2021.05.07-14.01.11:637][698]LogTemp: Hit SM_TrafficBarrel5_570
+[2021.05.07-14.01.11:662][701]LogTemp: Hit SM_TrafficBarrel5_570
+[2021.05.07-14.01.11:670][702]LogTemp: Hit SM_TrafficBarrel5_570
+[2021.05.07-14.01.13:089][872]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-14.01.14:558][ 48]LogTemp: Hit SM_metal_fence_458
+[2021.05.07-14.01.18:400][509]LogTemp: Hit SM_TrafficBarrel5_570
+[2021.05.07-14.01.18:408][510]LogTemp: Hit SM_TrafficBarrel5_570
+[2021.05.07-14.01.18:542][526]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:550][527]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:559][528]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:567][529]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:575][530]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:584][531]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:592][532]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:600][533]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.18:609][534]LogTemp: Hit BP_StreetLight6_22
+[2021.05.07-14.01.21:369][848]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.21:369][848]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.21:378][849]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.21:386][850]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.21:627][879]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.21:627][879]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.21:636][880]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.21:644][881]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.22:303][960]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.22:312][961]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.22:320][962]LogTemp: Hit SM_cautionpole17
+[2021.05.07-14.01.22:556][990]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.22:565][991]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.22:572][992]LogTemp: Hit SM_cautionpole18
+[2021.05.07-14.01.22:798][ 19]LogTemp: Hit SM_cautionpole19
+[2021.05.07-14.01.22:806][ 20]LogTemp: Hit SM_cautionpole19
+[2021.05.07-14.01.22:815][ 21]LogTemp: Hit SM_cautionpole19
+[2021.05.07-14.01.24:985][278]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.24:994][279]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:003][280]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:011][281]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:019][282]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:027][283]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:035][284]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:043][285]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:052][286]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:060][287]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:068][288]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:118][294]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:118][294]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:127][295]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:135][296]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:144][297]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:152][298]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:161][299]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:171][300]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:179][301]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:187][302]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.25:196][303]LogTemp: Hit SM_TrafficBarrel3_181
+[2021.05.07-14.01.28:258][670]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:258][670]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:266][671]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:275][672]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:457][694]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:458][694]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:466][695]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:474][696]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:483][697]LogTemp: Hit SM_cautionpole_34
+[2021.05.07-14.01.28:541][704]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:541][704]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:549][705]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:558][706]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:634][715]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:634][715]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:642][716]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:650][717]LogTemp: Hit SM_cautionpole2
+[2021.05.07-14.01.28:708][724]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:716][725]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:726][726]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:766][731]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:775][732]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:784][733]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:791][734]LogTemp: Hit SM_cautionpole3
+[2021.05.07-14.01.28:841][740]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.28:849][741]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.28:858][742]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.28:866][743]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.28:875][744]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.28:883][745]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.28:891][746]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:067][767]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:067][767]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:076][768]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:084][769]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:092][770]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:109][772]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.29:117][773]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.29:126][774]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.29:134][775]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.29:142][776]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.29:208][784]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-14.01.29:733][847]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:734][847]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:742][848]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:750][849]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:758][850]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:767][851]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:776][852]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.29:784][853]LogTemp: Hit SM_cautionpole4
+[2021.05.07-14.01.30:069][887]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:078][888]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:086][889]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:094][890]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:102][891]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:111][892]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:119][893]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:127][894]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:135][895]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:145][896]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:152][897]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:161][898]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:169][899]LogTemp: Hit SM_cautionpole5
+[2021.05.07-14.01.30:210][904]LogBlueprintUserMessages: [BP_Player_C_0] Took Damage: 30
+[2021.05.07-14.01.31:162][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-14.01.31:163][ 13]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.05.07-14.01.31:164][ 13]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.07-14.01.31:172][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-14.01.31:180][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.07-14.01.31:195][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.07-14.01.31:217][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.07-14.01.31:221][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-14.01.31:222][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.07-14.01.31:238][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.07-14.01.31:250][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.05.07-14.01.31:344][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.07-14.01.33:040][178]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.01.33:055][178]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.02.17:830][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.07-14.02.18:102][421]LogSavePackage: Moving '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/FirstPersonExampleMap_Auto190D1E78547F16ED774991B8D7C795B02.tmp' to '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.05.07-14.02.18:105][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.296
+[2021.05.07-14.02.18:106][421]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.296
+[2021.05.07-14.23.17:512][968]Candidate modules for hot reload:
+[2021.05.07-14.23.17:513][968]  AIGunner
+[2021.05.07-14.23.17:513][968]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,2031 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.23.17:687][968]Warning: Starting HotReload took  0.2s.
+[2021.05.07-14.23.34:354][418]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:23:34
+[2021.05.07-14.23.34:354][418]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.23.34:354][418]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.23.34:354][418]CompilerResultsLog: Error: C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Source/AIGunner/OlofsCode/AI/StateMachine/FGAIStateBase.h(36)  : Error: Unrecognized type 'FNoiseInfo' - type must be a UCLASS, USTRUCT or UENUM
+[2021.05.07-14.23.34:355][418]LogMainFrame: MainFrame: Module compiling took 16.852 seconds
+[2021.05.07-14.23.34:370][418]Warning: HotReload failed, recompile failed
+[2021.05.07-14.24.15:410][940]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.24.15:424][940]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.25.27:280][387]Candidate modules for hot reload:
+[2021.05.07-14.25.27:280][387]  AIGunner
+[2021.05.07-14.25.27:281][387]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,6021 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.25.27:282][387]Warning: Starting HotReload took  0.0s.
+[2021.05.07-14.25.31:297][450]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:25:31
+[2021.05.07-14.25.31:297][450]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.25.31:297][450]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.25.31:297][450]CompilerResultsLog: Error: C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Source/AIGunner/OlofsCode/AI/StateMachine/FGAIStateBase.h(36)  : Error: Unrecognized type 'FNoiseInfo' - type must be a UCLASS, USTRUCT or UENUM
+[2021.05.07-14.25.31:297][450]LogMainFrame: MainFrame: Module compiling took 4.028 seconds
+[2021.05.07-14.25.31:298][450]Warning: HotReload failed, recompile failed
+[2021.05.07-14.26.19:813][  7]Candidate modules for hot reload:
+[2021.05.07-14.26.19:813][  7]  AIGunner
+[2021.05.07-14.26.19:813][  7]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,7850 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.26.19:815][  7]Warning: Starting HotReload took  0.0s.
+[2021.05.07-14.26.23:974][354]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:26:23
+[2021.05.07-14.26.23:974][354]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.26.23:974][354]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.26.23:974][354]CompilerResultsLog: Error: C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Source/AIGunner/OlofsCode/AI/StateMachine/FGAIStateBase.h(36)  : Error: Unrecognized type 'FNoiseInfo' - type must be a UCLASS, USTRUCT or UENUM
+[2021.05.07-14.26.23:975][354]LogMainFrame: MainFrame: Module compiling took 4.174 seconds
+[2021.05.07-14.26.23:975][354]Warning: HotReload failed, recompile failed
+[2021.05.07-14.26.36:672][543]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.26.36:685][543]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.26.37:211][592]Candidate modules for hot reload:
+[2021.05.07-14.26.37:212][592]  AIGunner
+[2021.05.07-14.26.37:212][592]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,2279 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.26.37:214][592]Warning: Starting HotReload took  0.0s.
+[2021.05.07-14.26.41:385][931]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:26:41
+[2021.05.07-14.26.41:385][931]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.26.41:385][931]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.26.41:385][931]CompilerResultsLog: Error: C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Source/AIGunner/OlofsCode/AI/StateMachine/FGAIStateBase.h(36)  : Error: Unrecognized type 'FNoiseInfo' - type must be a UCLASS, USTRUCT or UENUM
+[2021.05.07-14.26.41:385][931]LogMainFrame: MainFrame: Module compiling took 4.187 seconds
+[2021.05.07-14.26.41:386][931]Warning: HotReload failed, recompile failed
+[2021.05.07-14.27.35:458][792]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.27.35:472][792]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.27.36:210][862]Candidate modules for hot reload:
+[2021.05.07-14.27.36:211][862]  AIGunner
+[2021.05.07-14.27.36:211][862]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,3404 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.27.36:213][862]Warning: Starting HotReload took  0.0s.
+[2021.05.07-14.27.40:430][102]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:27:40
+[2021.05.07-14.27.40:430][102]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.27.40:430][102]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.27.40:430][102]CompilerResultsLog: Error: C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Source/AIGunner/OlofsCode/AI/StateMachine/FGAIStateBase.h(36)  : Error: Unrecognized type 'FNoiseInfo' - type must be a UCLASS, USTRUCT or UENUM
+[2021.05.07-14.27.40:430][102]LogMainFrame: MainFrame: Module compiling took 4.229 seconds
+[2021.05.07-14.27.40:431][102]Warning: HotReload failed, recompile failed
+[2021.05.07-14.27.45:544][400]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.27.45:558][400]LogSlate: Window 'Message Log' being destroyed
+[2021.05.07-14.28.07:358][601]Candidate modules for hot reload:
+[2021.05.07-14.28.07:358][601]  AIGunner
+[2021.05.07-14.28.07:359][601]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AIGunner,1842 AIGunnerEditor Win64 DebugGame -Project="C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject" "C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/AIGunner.uproject"  -IgnoreJunk]
+[2021.05.07-14.28.07:360][601]Warning: Starting HotReload took  0.0s.
+[2021.05.07-14.28.20:955][973]CompilerResultsLog: New page: Compilation - 7 May 2021, 18:28:20
+[2021.05.07-14.28.20:955][973]CompilerResultsLog: Parsing headers for AIGunnerEditor
+[2021.05.07-14.28.20:955][973]CompilerResultsLog:   Running UnrealHeaderTool "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\AIGunner.uproject" "C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\AIGunnerEditor\DebugGame\AIGunnerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Hugo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.07-14.28.20:956][973]CompilerResultsLog: Reflection code generated for AIGunnerEditor in 3,7522872 seconds
+[2021.05.07-14.28.20:956][973]CompilerResultsLog: Building AIGunnerEditor...
+[2021.05.07-14.28.20:956][973]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.07-14.28.20:956][973]CompilerResultsLog: Building 13 actions with 12 processes...
+[2021.05.07-14.28.20:956][973]CompilerResultsLog:   [1/13] HAI_IdlePatrol.cpp
+[2021.05.07-14.28.20:956][973]CompilerResultsLog:   [2/13] FGAIStateBase.cpp
+[2021.05.07-14.28.20:956][973]CompilerResultsLog:   [3/13] HAI_Dead.cpp
+[2021.05.07-14.28.20:956][973]CompilerResultsLog:   [4/13] AIGunner.init.gen.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [5/13] FGStateMachineComponent.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [6/13] HAI_Alert.gen.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [7/13] FGAIStateBase.gen.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [8/13] HAI_Alert.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [9/13] HAI_Dead.gen.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [10/13] HAI_IdlePatrol.gen.cpp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [11/13] UE4Editor-AIGunner-1842-Win64-DebugGame.lib
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:      Creating library C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-1842-Win64-DebugGame.lib and object C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-1842-Win64-DebugGame.exp
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:   [12/13] UE4Editor-AIGunner-1842-Win64-DebugGame.dll
+[2021.05.07-14.28.20:957][973]CompilerResultsLog:      Creating library C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-1842-Win64-DebugGame.suppressed.lib and object C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Intermediate\Build\Win64\UE4Editor\DebugGame\AIGunner\UE4Editor-AIGunner-1842-Win64-DebugGame.suppressed.exp
+[2021.05.07-14.28.20:958][973]CompilerResultsLog:   [13/13] AIGunnerEditor-Win64-DebugGame.target
+[2021.05.07-14.28.20:958][973]CompilerResultsLog: Total time in Parallel executor: 8,91 seconds
+[2021.05.07-14.28.20:958][973]CompilerResultsLog: Total execution time: 13,41 seconds
+[2021.05.07-14.28.20:958][973]LogMainFrame: MainFrame: Module compiling took 13.611 seconds
+[2021.05.07-14.28.21:008][973]LogClass: Could not find existing class FGAIStateBase in package /Script/AIGunner for HotReload, assuming new class
+[2021.05.07-14.28.21:009][973]LogClass: Function ChangeState is new.
+[2021.05.07-14.28.21:009][973]LogClass: Function GetOwner is new.
+[2021.05.07-14.28.21:032][973]LogClass: Could not find existing class HAI_Alert in package /Script/AIGunner for HotReload, assuming new class
+[2021.05.07-14.28.21:032][973]LogClass: Function HandleLostPlayer is new.
+[2021.05.07-14.28.21:032][973]LogClass: Function HandleSeePlayer is new.
+[2021.05.07-14.28.21:032][973]LogClass: Could not find existing class HAI_Dead in package /Script/AIGunner for HotReload, assuming new class
+[2021.05.07-14.28.21:032][973]LogClass: Could not find existing class HAI_IdlePatrol in package /Script/AIGunner for HotReload, assuming new class
+[2021.05.07-14.28.21:033][973]LogClass: NoiseInfo HotReload.
+[2021.05.07-14.28.21:033][973]LogClass: FGVisionSensingResults HotReload.
+[2021.05.07-14.28.21:041][973]LogHotReload: Re-instancing FGAIStateBase after hot-reload.
+[2021.05.07-14.28.21:071][973]LogHotReload: Re-instancing HAI_Alert after hot-reload.
+[2021.05.07-14.28.21:098][973]LogHotReload: Re-instancing HAI_Dead after hot-reload.
+[2021.05.07-14.28.21:120][973]LogHotReload: Re-instancing HAI_IdlePatrol after hot-reload.
+[2021.05.07-14.28.21:137][973]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AIGunner' in 0.0003 seconds. Added 21 classes and 9 folders.
+[2021.05.07-14.28.21:142][973]Display: HotReload successful (13 functions remapped  2 scriptstructs remapped)
+[2021.05.07-14.28.21:244][973]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3614 classes and 861 folders.
+[2021.05.07-14.28.21:245][973]Display: HotReload took 13.9s.

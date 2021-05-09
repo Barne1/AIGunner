@@ -1,0 +1,572 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+Stats thread started at 0.326536
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin LightPropagationVolume
+Mounting plugin CameraShakePreviewer
+Mounting plugin AssetManagerEditor
+Mounting plugin CryptoKeys
+Mounting plugin DataValidation
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin GeometryMode
+Mounting plugin CurveEditorTools
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MaterialAnalyzer
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin DatasmithContent
+Mounting plugin VariantManagerContent
+Mounting plugin AnimationSharing
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PlasticSourceControl
+Mounting plugin PluginUtils
+Mounting plugin PropertyAccessNode
+Mounting plugin PerforceSourceControl
+Mounting plugin RiderLink
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin AlembicImporter
+Mounting plugin AutomationUtils
+Mounting plugin BackChannel
+Mounting plugin ChaosCloth
+Mounting plugin ChaosEditor
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosSolverPlugin
+Mounting plugin ChaosNiagara
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin GeometryProcessing
+Mounting plugin LuminPlatformFeatures
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin Niagara
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin MLSDK
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin MotoSynth
+Mounting plugin PlanarCut
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin SkeletalReduction
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin TemplateSequence
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WmfMedia
+Mounting plugin WebMMedia
+Mounting plugin LauncherChunkInstaller
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleImageUtils
+Mounting plugin ArchVisCharacter
+Mounting plugin AppleMoviePlayer
+Mounting plugin AssetTags
+Mounting plugin AudioCapture
+Mounting plugin AudioSynesthesia
+Mounting plugin CableComponent
+Mounting plugin ChunkDownloader
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GooglePAD
+Mounting plugin GoogleCloudMessaging
+Mounting plugin ScreenshotTools
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin PhysXVehicles
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SoundFields
+Mounting plugin SignificanceManager
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusVR
+Cleaning working directory: C:/Users/Hugo/AppData/Local/Temp/UnrealXGEWorkingDir/
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+OculusPlugin initialized successfully
+Failed initializing OVRPlugin 1.51.0
+Build: ++UE4+Release-4.26-CL-15973114
+Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+Net CL: 14830424
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+Compiled (64-bit): Apr 12 2021 06:14:10
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.26
+Command Line:  -skipcompile
+Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[r.VSync:0]]
+Setting CVar [[r.RHICmdBypass:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 16 GB [17096519680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Editor.ini]
+Computer: DESKTOP-0CE1HOJ
+User: Hugo
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.9GB (16GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 134.03 MB used, 134.04 MB peak
+Process Virtual Memory: 113.05 MB used, 113.05 MB peak
+Physical Memory: 10332.55 MB used,  5971.96 MB free, 16304.51 MB total
+Virtual Memory: 134201392.00 MB used,  16331.96 MB free, 134217728.00 MB total
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Using OS detected language (en-US).
+Using OS detected locale (en-SE).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Setting process to per monitor DPI aware
+IME system deactivated.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+D3D11 min allowed feature level: 11_0
+D3D11 max allowed feature level: 11_0
+D3D11 adapters:
+   0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+      8031/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter: 0
+Creating new Direct3DDevice
+    GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+   1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+   2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+   3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 2070
+  Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+     Driver Date: 11-22-2020
+Texture pool is 5621 MB (70% of 8031 MB)
+RHI has support for 64 bit atomics
+Async texture creation enabled
+Array index from any shader is supported
+GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+GeForceNow SDK initialized: 1
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Intermediate/Shaders/WorkingDirectory/16340/).
+Cleaned the shader compiler working directory 'C:/Users/Hugo/AppData/Local/Temp/UnrealShaderWorkingDir/936A4965484F38FBB73822A5FD511497/'.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.10s 81MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=98.28MBs, RandomWriteSpeed=241.91MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.0025 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [00000199A2790A00][0000019993F93CC0 49] Windows
+Profiles: [00000199A2790A00][0000019993F93CC0 49] Windows, [00000199A2709A00][00000199A0CFA180 49] WindowsNoEditor, [00000199A2790E00][00000199A0CFE300 49] WindowsServer, [00000199A2709500][00000199A0D02480 49] WindowsClient, [00000199A2792800][00000199A0D06600 49] IOS, [00000199A2708400][00000199A0D0A780 49] iPadAir, [00000199A2792300][00000199A0D0E900 49] iPadAir2, [00000199A26C2B00][00000199A0D16BC0 49] IPadPro, [00000199A26C2C00][00000199A0D12C00 49] iPadAir3, [00000199A2708D00][00000199A0D1AD80 49] iPadAir4, [00000199A26C2D00][00000199A0D1EF00 49] iPadMini2, [00000199A2708B00][00000199A0D23080 49] iPadMini3, [00000199A26C1200][00000199A0D27200 49] iPadMini4, [00000199A270AF00][00000199A0D2B380 49] iPadMini5, [00000199A26DE400][00000199A0CF7600 49] iPhone6, [00000199A26DE500][00000199A0D2F640 49] iPodTouch6, [00000199A26C1800][00000199A0D37880 49] iPhone7, [00000199A26C1700][00000199A0D338C0 49] iPodTouch7, [00000199A26DFC00][00000199A0D3BA00 49] iPhone5S, [00000199A26C2E00][00000199A0D43B80 49] iPhone6Plus, [00000199A26DD400][00000199A0D47D00 49] iPhone6S, [00000199A26C3E00][00000199A0D4A1C0 49] iPhone6SPlus, [00000199A26DC200][00000199A0D4E340 49] iPhone7Plus, [00000199A26C0D00][00000199A0D524C0 49] iPhoneSE, [00000199A26DEB00][00000199A0D56640 49] iPhone8, [00000199A26C2500][00000199A0D5A7C0 49] iPhone8Plus, [00000199A26DDC00][00000199A0D5E940 49] iPhoneX, [00000199A26C2200][00000199A0D62AC0 49] iPhoneXS, [00000199A26DC300][00000199A0D66C40 49] iPhoneXSMax, [00000199A26C0100][00000199A0D6ADC0 49] iPhoneXR, [00000199A26DF900][00000199A0D6EF40 49] iPhone11, [00000199A26C2000][00000199A0D730C0 49] iPhone11Pro, [00000199A26DF000][00000199A0D77240 49] iPhone11ProMax, [00000199A26C3400][00000199A0D7B3C0 49] iPhoneSE2, [00000199A26DE700][00000199A0D7F540 49] iPhone12Mini, [00000199A26C0400][00000199A0D3F680 49] iPhone12, [00000199A26DE200][00000199A0D837C0 49] iPhone12Pro, [00000199A26C1000][00000199A0D87900 49] iPhone12ProMax, [00000199A26C1C00][00000199A0D8BA40 49] iPadPro105, [00000199A26C3F00][00000199A0D93BC0 49] iPadPro129, [00000199A26C2900][00000199A0D97D40 49] iPadPro97, [00000199A2790200][00000199A0D9A200 49] iPadPro2_129, [00000199A26DFF00][00000199A0D9E380 49] iPad5, [00000199A2790900][00000199A0DA2500 49] iPad6, [00000199A26DCA00][00000199A0DA6680 49] iPad7, [00000199A2793300][00000199A0DAA800 49] iPad8, [00000199A26DEF00][00000199A0DAE980 49] iPadPro11, [00000199A2791800][00000199A0DB2B00 49] iPadPro2_11, [00000199A26DC100][00000199A0DB6C80 49] iPadPro3_129, [00000199A2792C00][00000199A0DBAE00 49] iPadPro4_129, [00000199A26DCB00][00000199A0DBEF80 49] AppleTV, [00000199A2791F00][00000199A0DC3100 49] AppleTV4K, [00000199A26DD600][00000199A0DC7280 49] TVOS, [00000199A2790400][00000199A0DCB400 49] Mac, [00000199A26DD000][00000199A0DCF580 49] MacClient, [00000199A2791000][00000199A0DD3700 49] MacNoEditor, [00000199A26DD500][00000199A0D8F840 49] MacServer, [00000199A2790300][00000199A0DD7980 49] Linux, [00000199A26DFB00][00000199A0DDBAC0 49] LinuxAArch64, [00000199A2791300][00000199A0DE3C40 49] LinuxNoEditor, [00000199A26DD300][00000199A0DE6100 49] LinuxAArch64NoEditor, [00000199A2793000][00000199A0DEA280 49] LinuxClient, [00000199A26DED00][00000199A0DEE400 49] LinuxAArch64Client, [00000199A2790800][00000199A0DF2580 49] LinuxServer, [00000199A26DE800][00000199A0DF6700 49] LinuxAArch64Server, [00000199A2791200][00000199A0DFA880 49] Android, [00000199A26DCD00][00000199A0DFEA00 49] Android_Low, [00000199A2790B00][00000199A0E02B80 49] Android_Mid, [00000199A26DF700][00000199A0E06D00 49] Android_High, [00000199A2792200][00000199A0E0AE80 49] Android_Default, [00000199A26DD700][00000199A0E0F000 49] Android_Adreno4xx, [00000199A2791500][00000199A0E13180 49] Android_Adreno5xx_Low, [00000199A26DCF00][00000199A0E17300 49] Android_Adreno5xx, [00000199A2791E00][00000199A0E1B480 49] Android_Adreno6xx, [00000199A26DC800][00000199A0E1F600 49] Android_Adreno6xx_Vulkan, [00000199A2793100][00000199A0E23780 49] Android_Mali_T6xx, [00000199A26DFD00][00000199A0DDF8C0 49] Android_Mali_T7xx, [00000199A2791D00][00000199A0E27A00 49] Android_Mali_T8xx, [00000199A26DD200][00000199A0E2BB40 49] Android_Mali_G71, [00000199A2791700][00000199A0E33CC0 49] Android_Mali_G72, [00000199A26DFE00][00000199A0E36180 49] Android_Mali_G72_Vulkan, [00000199A2792E00][00000199A0E3A300 49] Android_Mali_G76, [00000199A26DEE00][00000199A0E3E480 49] Android_Mali_G76_Vulkan, [00000199A2790100][00000199A0E42600 49] Android_Mali_G77, [00000199A26DE600][00000199A0E46780 49] Android_Mali_G77_Vulkan, [00000199A2791C00][00000199A0E4A900 49] Android_Vulkan_SM5, [00000199A26DF300][00000199A0E4EA80 49] Android_PowerVR_G6xxx, [00000199A2792F00][00000199A0E52C00 49] Android_PowerVR_GT7xxx, [00000199A26C1E00][00000199A0E56D80 49] Android_PowerVR_GE8xxx, [00000199A270A000][00000199A0E5AF00 49] Android_PowerVR_GM9xxx, [00000199A26C0700][00000199A0E5F080 49] Android_PowerVR_GM9xxx_Vulkan, [00000199A270A100][00000199A0E63200 49] Android_TegraK1, [00000199A26C1F00][00000199A0E67380 49] Android_Unknown_Vulkan, [00000199A2708C00][00000199A0E6B500 49] Lumin, [00000199A26C1B00][00000199A0E6F680 49] Lumin_Desktop, [00000199A2708F00][00000199A0E73800 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+AIGunner 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3233536220)
+PokeAHoleMaterial loaded successfully
+Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.042502 seconds
+16728 objects as part of root set at end of initial load.
+4183488 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.

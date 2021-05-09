@@ -1,0 +1,1006 @@
+﻿Log file open, 04/29/21 23:24:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AIGunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.342309
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cleaning working directory: C:/Users/Hugo/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.29-21.24.18:368][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.29-21.24.18:368][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.29-21.24.18:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:369][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:384][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.29-21.24.18:384][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.29-21.24.18:385][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.29-21.24.18:385][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.29-21.24.18:385][  0]LogHAL: Display: Platform has ~ 16 GB [17096519680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.29-21.24.18:385][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.29-21.24.18:385][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Scalability.ini]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.29-21.24.18:386][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.29-21.24.18:387][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.29-21.24.18:387][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.29-21.24.18:387][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.29-21.24.18:387][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.29-21.24.18:387][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.29-21.24.18:387][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Engine.ini]
+[2021.04.29-21.24.18:387][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Config/Windows/Editor.ini]
+[2021.04.29-21.24.18:387][  0]LogInit: Computer: DESKTOP-0CE1HOJ
+[2021.04.29-21.24.18:387][  0]LogInit: User: Hugo
+[2021.04.29-21.24.18:387][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.29-21.24.18:387][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.29-21.24.18:387][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.29-21.24.18:387][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.29-21.24.18:387][  0]LogMemory: Process Physical Memory: 133.95 MB used, 133.95 MB peak
+[2021.04.29-21.24.18:387][  0]LogMemory: Process Virtual Memory: 110.82 MB used, 110.82 MB peak
+[2021.04.29-21.24.18:387][  0]LogMemory: Physical Memory: 9495.33 MB used,  6809.18 MB free, 16304.51 MB total
+[2021.04.29-21.24.18:387][  0]LogMemory: Virtual Memory: 134203728.00 MB used,  14000.25 MB free, 134217728.00 MB total
+[2021.04.29-21.24.18:391][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.29-21.24.18:426][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.29-21.24.18:427][  0]LogInit: Using OS detected language (en-US).
+[2021.04.29-21.24.18:427][  0]LogInit: Using OS detected locale (en-SE).
+[2021.04.29-21.24.18:433][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.29-21.24.18:590][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.29-21.24.18:601][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.29-21.24.18:613][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.29-21.24.18:613][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.29-21.24.18:720][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.29-21.24.18:720][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.29-21.24.18:720][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.29-21.24.18:802][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.04.29-21.24.18:802][  0]LogD3D11RHI:       8031/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.29-21.24.18:805][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.29-21.24.18:805][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.29-21.24.18:805][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.29-21.24.18:811][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.29-21.24.18:811][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.29-21.24.18:811][  0]LogWindows: EnumDisplayDevices:
+[2021.04.29-21.24.18:811][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.04.29-21.24.18:811][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.04.29-21.24.18:811][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.04.29-21.24.18:811][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.04.29-21.24.18:812][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.29-21.24.18:812][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.04.29-21.24.18:812][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.04.29-21.24.18:812][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.04.29-21.24.18:812][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.04.29-21.24.18:863][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.29-21.24.18:863][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.29-21.24.18:863][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.29-21.24.18:886][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.04.29-21.24.18:887][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.29-21.24.19:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.29-21.24.19:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.29-21.24.19:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.29-21.24.19:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.29-21.24.19:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.29-21.24.19:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.29-21.24.19:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.29-21.24.19:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.29-21.24.19:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.29-21.24.19:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.29-21.24.19:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.29-21.24.19:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.29-21.24.19:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.29-21.24.19:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.29-21.24.19:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.29-21.24.19:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.29-21.24.19:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.29-21.24.19:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.29-21.24.19:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.29-21.24.19:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.29-21.24.19:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.29-21.24.19:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.29-21.24.19:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.29-21.24.19:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.29-21.24.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.29-21.24.19:321][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.29-21.24.19:326][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.29-21.24.19:373][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.29-21.24.19:373][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Intermediate/Shaders/WorkingDirectory/2816/).
+[2021.04.29-21.24.19:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hugo/AppData/Local/Temp/UnrealShaderWorkingDir/14E4031B4EE5C7726ED7C88222F42222/'.
+[2021.04.29-21.24.19:373][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.29-21.24.19:373][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.29-21.24.20:021][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.29-21.24.20:068][  0]LogDerivedDataCache: Loaded boot cache 0.05s 81MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.29-21.24.20:068][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.29-21.24.20:068][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.29-21.24.20:068][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.29-21.24.20:068][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.29-21.24.20:068][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.29-21.24.20:077][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.29-21.24.20:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.29-21.24.20:077][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.29-21.24.20:085][  0]LogDerivedDataCache: Speed tests for C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.29-21.24.20:086][  0]LogDerivedDataCache: Display: Performance to C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=258.81MBs, RandomWriteSpeed=236.74MBs. Assigned SpeedClass 'Local'
+[2021.04.29-21.24.20:086][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.29-21.24.20:086][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.29-21.24.20:086][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.29-21.24.20:127][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.29-21.24.20:127][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.29-21.24.20:149][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.04.29-21.24.20:341][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.29-21.24.20:341][  0]LogInit: Active device profile: [000001702EC90A00][00000170209025C0 49] Windows
+[2021.04.29-21.24.20:342][  0]LogInit: Profiles: [000001702EC90A00][00000170209025C0 49] Windows, [000001702EC2DA00][000001702090A740 49] WindowsNoEditor, [000001702EC90E00][000001702E49E8C0 49] WindowsServer, [000001702EC2D500][000001702E4A2A40 49] WindowsClient, [000001702EC92800][000001702E4B8BC0 49] IOS, [000001702EC2C400][000001702E4BCD40 49] iPadAir, [000001702EC92300][000001702E4C8EC0 49] iPadAir2, [000001702EAC2B00][000001702F60D180 49] IPadPro, [000001702EAC2C00][000001702F5F11C0 49] iPadAir3, [000001702EC2CD00][000001702F619340 49] iPadAir4, [000001702EAC2D00][000001702F6314C0 49] iPadMini2, [000001702EC2CB00][0000017020907600 49] iPadMini3, [000001702EAC1200][000001702F63D740 49] iPadMini4, [000001702EC2EF00][000001702F641880 49] iPadMini5, [000001702EAE6400][000001702F675B00 49] iPhone6, [000001702EAE6500][000001702F665B40 49] iPodTouch6, [000001702EAC1800][000001702F67C140 49] iPhone7, [000001702EAC1700][000001702F678180 49] iPodTouch7, [000001702EAE7C00][000001702F680300 49] iPhone5S, [000001702EAC2E00][000001702F688480 49] iPhone6Plus, [000001702EAE5400][000001702F68C600 49] iPhone6S, [000001702EAC3E00][000001702F694780 49] iPhone6SPlus, [000001702EAE4200][000001702F698900 49] iPhone7Plus, [000001702EAC0D00][000001702F69CA80 49] iPhoneSE, [000001702EAE6B00][000001702F6AAC00 49] iPhone8, [000001702EAC2500][000001702F6AED80 49] iPhone8Plus, [000001702EAE5C00][000001702F6BEF00 49] iPhoneX, [000001702EAC2200][000001702F6C3080 49] iPhoneXS, [000001702EAE4300][000001702F6C7200 49] iPhoneXSMax, [000001702EAC0100][000001702F6CB380 49] iPhoneXR, [000001702EAE7900][000001702F6CF500 49] iPhone11, [000001702EAC2000][000001702F671640 49] iPhone11Pro, [000001702EAE7000][000001702F6D3780 49] iPhone11ProMax, [000001702EAC3400][000001702F6D78C0 49] iPhoneSE2, [000001702EAE6700][000001702F6DBA00 49] iPhone12Mini, [000001702EAC0400][000001702F6E3B80 49] iPhone12, [000001702EAE6200][000001702F6E7D00 49] iPhone12Pro, [000001702EAC1000][000001702F70A1C0 49] iPhone12ProMax, [000001702EAC1C00][000001702F70E340 49] iPadPro105, [000001702EAC3F00][000001702F7124C0 49] iPadPro129, [000001702EAC2900][000001702F716640 49] iPadPro97, [000001702EC90200][000001702F71A7C0 49] iPadPro2_129, [000001702EAE7F00][000001702F71E940 49] iPad5, [000001702EC90900][000001702F722AC0 49] iPad6, [000001702EAE4A00][0000017030220C40 49] iPad7, [000001702EC93300][000001702F752DC0 49] iPad8, [000001702EAE6F00][000001702F756F40 49] iPadPro11, [000001702EC91800][000001702F75B0C0 49] iPadPro2_11, [000001702EAE4100][000001702F75F240 49] iPadPro3_129, [000001702EC92C00][000001702F7633C0 49] iPadPro4_129, [000001702EAE4B00][000001702F767540 49] AppleTV, [000001702EC91F00][000001702F76B6C0 49] AppleTV4K, [000001702EAE5600][000001702F6DF800 49] TVOS, [000001702EC90400][000001702F76F940 49] Mac, [000001702EAE5000][000001702F773A80 49] MacClient, [000001702EC91000][000001702F77BC00 49] MacNoEditor, [000001702EAE5500][000001702F77E0C0 49] MacServer, [000001702EC90300][000001702F782240 49] Linux, [000001702EAE7B00][000001702F7C23C0 49] LinuxAArch64, [000001702EC91300][000001702F7C6540 49] LinuxNoEditor, [000001702EAE5300][000001702F7CA6C0 49] LinuxAArch64NoEditor, [000001702EC93000][000001702F7CE840 49] LinuxClient, [000001702EAE6D00][000001702F7D29C0 49] LinuxAArch64Client, [000001702EC90800][000001702F7D6B40 49] LinuxServer, [000001702EAE6800][000001702F7DACC0 49] LinuxAArch64Server, [000001702EC91200][000001702F7DEE40 49] Android, [000001702EAE4D00][000001702F7E2FC0 49] Android_Low, [000001702EC90B00][000001702F7E7140 49] Android_Mid, [000001702EAE7700][000001702F7EB2C0 49] Android_High, [000001702EC92200][000001702F7EF440 49] Android_Default, [000001702EAE5700][000001702F7F35C0 49] Android_Adreno4xx, [000001702EC91500][000001702F7F7740 49] Android_Adreno5xx_Low, [000001702EAE4F00][000001702F777880 49] Android_Adreno5xx, [000001702EC91E00][000001702F7FB9C0 49] Android_Adreno6xx, [000001702EAE4800][000001702F7FFB00 49] Android_Adreno6xx_Vulkan, [000001702EC93100][000001702F803C40 49] Android_Mali_T6xx, [000001702EAE7D00][000001702F80A100 49] Android_Mali_T7xx, [000001702EC91D00][000001702F80E280 49] Android_Mali_T8xx, [000001702EAE5200][000001702F812400 49] Android_Mali_G71, [000001702EC91700][000001702F816580 49] Android_Mali_G72, [000001702EAE7E00][000001702F81A700 49] Android_Mali_G72_Vulkan, [000001702EC92E00][000001702F81E880 49] Android_Mali_G76, [000001702EAE6E00][000001702F822A00 49] Android_Mali_G76_Vulkan, [000001702EC90100][000001702F826B80 49] Android_Mali_G77, [000001702EAE6600][000001702F82AD00 49] Android_Mali_G77_Vulkan, [000001702EC91C00][000001702F82EE80 49] Android_Vulkan_SM5, [000001702EAE7300][000001702F833000 49] Android_PowerVR_G6xxx, [000001702EC92F00][000001702F837180 49] Android_PowerVR_GT7xxx, [000001702EAC1E00][000001702F83B300 49] Android_PowerVR_GE8xxx, [000001702EC2E000][000001702F83F480 49] Android_PowerVR_GM9xxx, [000001702EAC0700][000001702F843600 49] Android_PowerVR_GM9xxx_Vulkan, [000001702EC2E100][000001702F847780 49] Android_TegraK1, [000001702EAC1F00][000001702F8078C0 49] Android_Unknown_Vulkan, [000001702EC2CC00][000001702F84BA00 49] Lumin, [000001702EAC1B00][000001702F84FB40 49] Lumin_Desktop, [000001702EC2CF00][000001702F853C80 49] HoloLens, 
+[2021.04.29-21.24.20:374][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.29-21.24.20:374][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.29-21.24.20:374][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.29-21.24.20:374][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.29-21.24.20:374][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.29-21.24.20:442][  0]LogNetVersion: AIGunner 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3233536220)
+[2021.04.29-21.24.20:799][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.29-21.24.20:834][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.034151 seconds
+[2021.04.29-21.24.20:838][  0]LogUObjectArray: 16728 objects as part of root set at end of initial load.
+[2021.04.29-21.24.20:838][  0]LogUObjectAllocator: 4183488 out of 0 bytes used by permanent object pool.
+[2021.04.29-21.24.20:838][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.29-21.24.21:136][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.29-21.24.21:142][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.29-21.24.21:238][  0]SourceControl: Source control is disabled
+[2021.04.29-21.24.21:238][  0]SourceControl: Source control is disabled
+[2021.04.29-21.24.21:241][  0]SourceControl: Source control is disabled
+[2021.04.29-21.24.21:265][  0]LogUProjectInfo: Found projects:
+[2021.04.29-21.24.21:416][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.29-21.24.21:428][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.29-21.24.21:428][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.29-21.24.21:473][  0]LogCollectionManager: Loaded 0 collections in 0.002189 seconds
+[2021.04.29-21.24.21:491][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/Collections/' took 0.00s
+[2021.04.29-21.24.21:491][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/Developers/Hugo/Collections/' took 0.00s
+[2021.04.29-21.24.21:491][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/Collections/' took 0.00s
+[2021.04.29-21.24.21:491][  0]LogOcInput: OculusInput pre-init called
+[2021.04.29-21.24.21:696][  0]LogEngine: Initializing Engine...
+[2021.04.29-21.24.21:696][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.29-21.24.21:697][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.29-21.24.21:784][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.29-21.24.21:790][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.29-21.24.21:806][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.29-21.24.21:809][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.29-21.24.21:810][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-21.24.21:810][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-21.24.21:810][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-21.24.21:810][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-21.24.21:825][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-21.24.21:853][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2021.04.29-21.24.21:853][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-21.24.21:855][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-21.24.21:855][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-21.24.21:856][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-21.24.21:856][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-21.24.21:856][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-21.24.21:857][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-21.24.21:857][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-21.24.21:857][  0]LogInit: FAudioDevice initialized.
+[2021.04.29-21.24.21:857][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.29-21.24.21:857][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.29-21.24.21:900][  0]LogDerivedDataCache: Saved boot cache 0.04s 81MB C:/Users/Hugo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.29-21.24.21:900][  0]LogInit: Texture streaming: Enabled
+[2021.04.29-21.24.21:908][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.04.29-21.24.21:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.29-21.24.21:911][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.29-21.24.21:913][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.29-21.24.21:933][  0]LogInit: Transaction tracking system initialized
+[2021.04.29-21.24.21:947][  0]BlueprintLog: New page: Editor Load
+[2021.04.29-21.24.21:996][  0]LocalizationService: Localization service is disabled
+[2021.04.29-21.24.22:015][  0]TimingProfiler: Initialize
+[2021.04.29-21.24.22:015][  0]TimingProfiler: OnSessionChanged
+[2021.04.29-21.24.22:015][  0]LoadingProfiler: Initialize
+[2021.04.29-21.24.22:015][  0]LoadingProfiler: OnSessionChanged
+[2021.04.29-21.24.22:015][  0]NetworkingProfiler: Initialize
+[2021.04.29-21.24.22:015][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.29-21.24.22:015][  0]MemoryProfiler: Initialize
+[2021.04.29-21.24.22:015][  0]MemoryProfiler: OnSessionChanged
+[2021.04.29-21.24.22:067][  0]DDCNotifications: Shared DDC not detected, performance notification enabled
+[2021.04.29-21.24.22:121][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.29-21.24.22:121][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.29-21.24.22:151][  0]LogFileCache: Scanning file cache for directory 'C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/' took 0.01s
+[2021.04.29-21.24.22:233][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.29-21.24.22:261][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.368
+[2021.04.29-21.24.22:261][  0]Cmd: MAP LOAD FILE="../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.29-21.24.22:261][  0]LightingResults: New page: Lighting Build
+[2021.04.29-21.24.22:262][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-21.24.22:262][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-21.24.22:262][  0]MapCheck: New page: Map Check
+[2021.04.29-21.24.22:262][  0]LightingResults: New page: Lighting Build
+[2021.04.29-21.24.22:268][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.29-21.24.22:293][  0]LogLinker: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FPS_Weapon_Bundle\Weapons\Meshes\AR4\SM_AR4.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4': Can't find file.
+[2021.04.29-21.24.22:293][  0]LogLinker: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FPS_Weapon_Bundle\Weapons\Meshes\AR4\SM_AR4.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4': Can't find file.
+[2021.04.29-21.24.22:293][  0]LogLinker: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FPS_Weapon_Bundle\Weapons\Meshes\AR4\SM_AR4.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4': Can't find file.
+[2021.04.29-21.24.22:405][  0]LogBlueprint: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.04.29-21.24.22:405][  0]LogBlueprint: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2021.04.29-21.24.22:405][  0]LogBlueprint: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2021.04.29-21.24.22:735][  0]LogLinker: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FPS_Weapon_Bundle\Weapons\Meshes\AR4\SM_AR4.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4': Can't find file.
+[2021.04.29-21.24.22:735][  0]LoadErrors: Failed to load /Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4.M_AR4 Referenced by SM_AR4
+[2021.04.29-21.24.22:736][  0]LogLinker: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\FPS_Weapon_Bundle\Weapons\Meshes\AR4\SM_AR4.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4': Can't find file.
+[2021.04.29-21.24.22:736][  0]LoadErrors: Failed to load /Game/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4.M_AR4 Referenced by SM_AR4
+[2021.04.29-21.24.23:181][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.04.29-21.24.23:182][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.29-21.24.23:267][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.29-21.24.23:294][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.29-21.24.23:297][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.29-21.24.23:297][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,252ms to complete.
+[2021.04.29-21.24.23:297][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.036
+[2021.04.29-21.24.23:300][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.407
+[2021.04.29-21.24.23:418][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-21.24.23:424][  0]LogSourceControl: Attempting 'p4 client -o Hugo.Lindroth_GP03'
+[2021.04.29-21.24.23:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-21.24.23:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-21.24.23:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-21.24.23:445][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3610 classes and 861 folders.
+[2021.04.29-21.24.23:449][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.29-21.24.23:450][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.29-21.24.23:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.29-21.24.23:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.04.29-21.24.23:451][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.29-21.24.23:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.29-21.24.23:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.04.29-21.24.23:451][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.29-21.24.23:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.29-21.24.23:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.04.29-21.24.23:452][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.29-21.24.23:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.29-21.24.23:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.29-21.24.23:453][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.29-21.24.23:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.29-21.24.23:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.04.29-21.24.23:453][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.29-21.24.23:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.29-21.24.23:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.04.29-21.24.23:454][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.29-21.24.23:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.29-21.24.23:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.29-21.24.23:455][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.29-21.24.23:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.29-21.24.23:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.29-21.24.23:455][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.29-21.24.23:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.29-21.24.23:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.04.29-21.24.23:456][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.29-21.24.23:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.29-21.24.23:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.29-21.24.23:457][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.29-21.24.23:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.29-21.24.23:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.04.29-21.24.23:457][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.29-21.24.23:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.29-21.24.23:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.04.29-21.24.23:458][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.29-21.24.23:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.29-21.24.23:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.29-21.24.23:458][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.29-21.24.23:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.29-21.24.23:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.04.29-21.24.23:459][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.29-21.24.23:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.29-21.24.23:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.04.29-21.24.23:459][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.29-21.24.23:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.29-21.24.23:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.04.29-21.24.23:460][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.29-21.24.23:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.29-21.24.23:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.29-21.24.23:461][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.29-21.24.23:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.29-21.24.23:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.04.29-21.24.23:461][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.29-21.24.23:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.29-21.24.23:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.29-21.24.23:462][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.29-21.24.23:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.29-21.24.23:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.04.29-21.24.23:463][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.29-21.24.23:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.29-21.24.23:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.04.29-21.24.23:463][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.29-21.24.23:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.29-21.24.23:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.29-21.24.23:464][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.29-21.24.23:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.29-21.24.23:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.29-21.24.23:464][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.29-21.24.23:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.29-21.24.23:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.04.29-21.24.23:465][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.29-21.24.23:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.29-21.24.23:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.04.29-21.24.23:465][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.29-21.24.23:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.29-21.24.23:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.29-21.24.23:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.04.29-21.24.23:500][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.29-21.24.23:504][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.29-21.24.23:627][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.29-21.24.23:629][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.29-21.24.23:632][  0]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.29-21.24.23:741][  0]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:1).
+[2021.04.29-21.24.24:267][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.29-21.24.24:742][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.29-21.24.24:742][  0]LogLoad: (Engine Initialization) Total time: 7.85 seconds
+[2021.04.29-21.24.24:742][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.29-21.24.24:742][  0]LogInit: First time updating LLM stats...
+[2021.04.29-21.24.24:781][  0]LogAssetRegistry: Asset discovery search completed in 4.6329 seconds
+[2021.04.29-21.24.24:782][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.29-21.24.24:818][  0]SourceControl: Client Hugo.Lindroth_GP03
+[2021.04.29-21.24.24:818][  0]SourceControl: Update 2021/04/26 15:19:50
+[2021.04.29-21.24.24:818][  0]SourceControl: Access 2021/04/29 23:24:08
+[2021.04.29-21.24.24:818][  0]SourceControl: Owner Hugo.Lindroth
+[2021.04.29-21.24.24:818][  0]SourceControl: Host DESKTOP-0CE1HOJ
+[2021.04.29-21.24.24:818][  0]SourceControl: Description Created by Hugo.Lindroth.
+
+[2021.04.29-21.24.24:818][  0]SourceControl: Root C:\PerforceProjects\Hugo.Lindroth_GP03
+[2021.04.29-21.24.24:818][  0]SourceControl: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2021.04.29-21.24.24:818][  0]SourceControl: SubmitOptions submitunchanged
+[2021.04.29-21.24.24:818][  0]SourceControl: LineEnd local
+[2021.04.29-21.24.24:818][  0]SourceControl: View0 //FG20FT_AI_Team13/... //Hugo.Lindroth_GP03/FG20FT_AI_Team13/...
+[2021.04.29-21.24.24:818][  0]SourceControl: specFormatted 
+[2021.04.29-21.24.24:818][  0]SourceControl: func client-FstatInfo
+[2021.04.29-21.24.24:818][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.29-21.24.24:877][  0]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Config/DefaultEngine.ini C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactory.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAmbientSound.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAnimationAsset.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAtmosphericFog.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBasicShape.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBlueprint.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxReflectionCapture.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxVolume.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCameraActor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCharacter.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryClass.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCylinderVolume.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDeferredDecal.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDirectionalLight.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmitter.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmptyActor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryExponentialHeightFog.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryInteractiveFoliage.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/LandscapeEditor/Private/Classes/ActorFactoryLandscape.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryMatineeActor.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Private/Factories/ActorFactoryMovieScene.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryNote.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPawn.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPhysicsAsset.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPlanarReflection.h C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPlaneReflectionCapture.h'
+[2021.04.29-21.24.24:900][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactory.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAmbientSound.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAnimationAsset.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAtmosphericFog.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBasicShape.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBlueprint.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxReflectionCapture.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxVolume.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCameraActor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCharacter.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryClass.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCylinderVolume.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDeferredDecal.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDirectionalLight.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmitter.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:919][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmptyActor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryExponentialHeightFog.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryInteractiveFoliage.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/LandscapeEditor/Private/Classes/ActorFactoryLandscape.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryMatineeActor.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Private/Factories/ActorFactoryMovieScene.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryNote.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPawn.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPhysicsAsset.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPlanarReflection.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.24:920][  1]SourceControl: Path 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryPlaneReflectionCapture.h' is not under client's root 'C:\PerforceProjects\Hugo.Lindroth_GP03'.
+
+[2021.04.29-21.24.26:465][121]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/HugoTestLevel.umap C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/HugoTestLevel_BuiltData.uasset'
+[2021.04.29-21.24.40:264][768]LogSlate: Window 'Message Log' being destroyed
+[2021.04.29-21.24.40:268][768]LogSlate: Window 'Message Log' being destroyed
+[2021.04.29-21.24.42:028][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.29-21.24.42:034][969]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.29-21.24.42:069][969]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/HugoTestLevel.HugoTestLevel
+[2021.04.29-21.24.42:069][969]Cmd: MAP LOAD FILE="../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/HugoTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.29-21.24.42:069][969]LightingResults: New page: Lighting Build
+[2021.04.29-21.24.42:069][969]LoadErrors: New page: Loading map: HugoTestLevel.umap
+[2021.04.29-21.24.42:076][969]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-21.24.42:076][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-21.24.42:077][969]MapCheck: New page: Map Check
+[2021.04.29-21.24.42:077][969]LightingResults: New page: Lighting Build
+[2021.04.29-21.24.42:082][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.29-21.24.42:097][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.29-21.24.42:097][969]LogAudio: Display: Audio Device (ID: 1) registered with world 'HugoTestLevel'.
+[2021.04.29-21.24.42:153][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.29-21.24.42:153][969]LogAIModule: Creating AISystem for world HugoTestLevel
+[2021.04.29-21.24.42:160][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.29-21.24.42:163][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.29-21.24.42:163][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,101ms to complete.
+[2021.04.29-21.24.42:163][969]LogFileHelpers: Loading map 'HugoTestLevel' took 0.095
+[2021.04.29-21.24.43:165][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.29-21.24.43:654][135]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2021.04.29-21.24.43:894][161]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.29-21.24.45:082][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HugoAi/BP_Enemy.BP_Enemy
+[2021.04.29-21.24.45:209][295]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.04.29-21.24.45:886][295]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.29-21.24.52:983][105]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.04.29-21.25.46:322][333]BlueprintLog: New page: Compile BP_Enemy
+[2021.04.29-21.25.46:324][333]LogBlueprint: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\HugoAi\BP_Enemy.uasset: [Compiler] FGEnemy.NavMovementComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get NavMovementComponent
+[2021.04.29-21.25.46:372][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.29-21.25.46:404][336]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/FirstPersonBP/Maps/HugoTestLevel.umap'
+[2021.04.29-21.25.47:219][420]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.04.29-21.25.47:272][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HugoAi/BP_Enemy" FILE="../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset" SILENT=true
+[2021.04.29-21.25.47:281][420]LogSavePackage: Moving '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/BP_Enemy678323574542DC4EB55326B42CBE1AFC.tmp' to '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.04.29-21.25.47:296][420]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.04.29-21.25.47:296][420]LogContentValidation: Display: Validating Blueprint /Game/HugoAi/BP_Enemy.BP_Enemy
+[2021.04.29-21.25.49:332][641]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.04.29-21.25.50:637][778]BlueprintLog: New page: Compile BP_Enemy
+[2021.04.29-21.25.50:639][778]LogBlueprint: Warning: [AssetLog] C:\PerforceProjects\Hugo.Lindroth_GP03\FG20FT_AI_Team13\AIGunner\Content\HugoAi\BP_Enemy.uasset: [Compiler] FGEnemy.NavMovementComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get NavMovementComponent
+[2021.04.29-21.25.50:685][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.29-21.25.51:124][822]LogSourceControl: Attempting 'p4 fstat -Or C:/PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.04.29-21.25.51:153][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HugoAi/BP_Enemy" FILE="../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset" SILENT=true
+[2021.04.29-21.25.51:163][822]LogSavePackage: Moving '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Saved/BP_EnemyE771AFAD4980D972C8EFB5B7983CF03E.tmp' to '../../../../../../PerforceProjects/Hugo.Lindroth_GP03/FG20FT_AI_Team13/AIGunner/Content/HugoAi/BP_Enemy.uasset'
+[2021.04.29-21.25.51:176][822]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.04.29-21.25.51:176][822]LogContentValidation: Display: Validating Blueprint /Game/HugoAi/BP_Enemy.BP_Enemy
+[2021.04.29-21.25.52:304][946]LogTemp: Repeating last play command: Simulate
+[2021.04.29-21.25.52:309][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-21.25.52:309][946]PIE: New page: SIE session: HugoTestLevel (30 Apr 2021, 01:25:52)
+[2021.04.29-21.25.52:310][946]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.29-21.25.52:311][946]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.29-21.25.52:311][946]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_HugoTestLevel
+[2021.04.29-21.25.52:313][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2021.04.29-21.25.52:314][946]LogAIModule: Creating AISystem for world HugoTestLevel
+[2021.04.29-21.25.52:314][946]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2021.04.29-21.25.52:314][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/HugoTestLevel.HugoTestLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_HugoTestLevel.HugoTestLevel (0.003735s)
+[2021.04.29-21.25.52:331][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.04.29-21.25.52:331][946]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.29-21.25.52:331][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-21.25.52:332][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-21.25.52:332][946]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-21.25.52:332][946]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 4: BackLeft
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 5: BackRight
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 6: SideLeft
+[2021.04.29-21.25.52:338][946]LogAudioMixer: Display: 7: SideRight
+[2021.04.29-21.25.52:350][946]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2021.04.29-21.25.52:350][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.29-21.25.52:350][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.29-21.25.52:350][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.29-21.25.52:351][946]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.29-21.25.52:351][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.29-21.25.52:351][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.29-21.25.52:363][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.29-21.25.52:363][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.29-21.25.52:363][946]LogInit: FAudioDevice initialized.
+[2021.04.29-21.25.52:363][946]LogAudio: Display: Audio Device (ID: 2) registered with world 'HugoTestLevel'.
+[2021.04.29-21.25.52:381][946]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.29-21.25.52:382][946]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_HugoTestLevel.HugoTestLevel up for play (max tick rate 0) at 2021.04.29-23.25.52
+[2021.04.29-21.25.52:383][946]LogWorld: Bringing up level for play took: 0.000849
+[2021.04.29-21.25.52:383][946]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.04.29-21.25.52:384][946]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.29-21.25.52:388][946]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.04.29-21.25.52:389][946]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.29-21.25.53:236][946]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.847 s
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: 
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: Ensure condition failed: Component->HasBegunPlay() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Actor.cpp] [Line: 3555]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: Failed to route BeginPlay (FGPatrolComponent /Game/FirstPersonBP/Maps/UEDPIE_0_HugoTestLevel.HugoTestLevel:PersistentLevel.BP_Enemy_2.FGPatrol)
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: Stack: 
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8bc59821 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_9dbfd28646cb21bba85282fd0c4d3136> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8a26afb4 UE4Editor-Engine.dll!AActor::BeginPlay() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Actor.cpp:3555]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8a27443c UE4Editor-Engine.dll!AActor::DispatchBeginPlay() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Actor.cpp:3517]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8b64ec42 UE4Editor-Engine.dll!AWorldSettings::NotifyBeginPlay() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\WorldSettings.cpp:247]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8a9c5fa1 UE4Editor-Engine.dll!AGameStateBase::HandleBeginPlay() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\GameStateBase.cpp:205]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8b5f344e UE4Editor-Engine.dll!UWorld::BeginPlay() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\World.cpp:4349]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8a9e7f8d UE4Editor-Engine.dll!UGameInstance::StartPlayInEditorGameInstance() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\GameInstance.cpp:483]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8903a1a5 UE4Editor-UnrealEd.dll!UEditorEngine::CreateInnerProcessPIEGameInstance() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:2941]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8905cd6f UE4Editor-UnrealEd.dll!UEditorEngine::OnLoginPIEComplete_Deferred() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1503]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8903aedd UE4Editor-UnrealEd.dll!UEditorEngine::CreateNewPlayInEditorInstance() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1750]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb89078c42 UE4Editor-UnrealEd.dll!UEditorEngine::StartPlayInEditorSession() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:2711]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8907c1d1 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlaySessionRequestImpl() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1116]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb8907ba98 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlaySessionRequest() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1019]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb88ad8c38 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:1623]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffb893f50e6 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:426]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ff7231c9bc2 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4836]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ff7231e117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ff7231e125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ff7231f52bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ff7231f7fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffc189b7034 KERNEL32.DLL!UnknownFunction []
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: [Callstack] 0x00007ffc19782651 ntdll.dll!UnknownFunction []
+[2021.04.29-21.25.53:236][946]LogOutputDevice: Error: 
